@@ -41,7 +41,7 @@ def monopoly_with_third_tier
 
 
 end
-
+ "mortgage_value" => "$100"
 def monopoly_with_fourth_tier
 	
 
